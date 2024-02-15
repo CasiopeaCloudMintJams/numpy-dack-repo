@@ -5,8 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # create a range for the x values using the arange() function
-# from 0 to 1 with counts set to 81
-x = np.linspace(0, 1, 81)
+# from 0.01 to 1 with counts set to 81
+x = np.linspace(0.01, 1, 81)
 
 # Now create 3 functions of y with respect to x using the constant values a, b, c, and d.
 
