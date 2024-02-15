@@ -6,8 +6,7 @@ build:
   commands:
     build:
       - pip install pipenv
-      - pipenv install
-      - pip install matplotlib
-      - pip install numpy
+      - pipenv install matplotlib
+      - pipenv install numpy
 run: 
   command: python app.py
