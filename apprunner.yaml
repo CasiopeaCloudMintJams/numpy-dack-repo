@@ -9,4 +9,4 @@ build:
       - pip install matplotlib
       - pip install numpy
 run: 
-  command: python My_Python_DS_HW4.py
+  command: python numpy-file.py
