@@ -6,7 +6,7 @@ build:
   commands:
     build:
       - pip install pipenv
-      - pipenv install matplotlib
       - pipenv install numpy
+      - pip install matplotlib
 run: 
   command: python "My Python DS HW4.py"
