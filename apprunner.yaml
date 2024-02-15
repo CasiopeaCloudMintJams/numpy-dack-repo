@@ -9,4 +9,4 @@ build:
       - pipenv install matplotlib
       - pipenv install numpy
 run: 
-  command: python app.py
+  command: python "My Python DS HW4.py"
